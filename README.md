@@ -6,7 +6,7 @@ Talisma Manuel<br>
 model v0.1
 
 <p align="center">
-<img src="./assets/bg_cover.png" title="3D rendered underwater drone" width="100%">
+<img src="./assets/bg_cover_v2.png" title="3D rendered underwater drone" width="100%">
 </p>
 
 ### FUNCTIONALITIES
