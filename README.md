@@ -13,9 +13,9 @@ model v0.1
 
 This project about an underwater drone equipped with intelligent computer vision capabilities. The drone is able to track objects autonomously, making it a valuable tool for various underwater applications.
 
- <!-- p align="center">
-    <img src="./assets/D-OceanLab.png" title="3D rendered D-OceanLab underwater drone" width="90%"/>
-  </p-->
+ <p align="center">
+    <img src="./assets/overview.png" title="D-OceanLab underwater design overview" width="90%"/>
+  </p>
     
 ## Current features Stage
 
