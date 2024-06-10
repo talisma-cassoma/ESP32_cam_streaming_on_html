@@ -19,7 +19,7 @@ This project is about an underwater drone equipped with intelligent computer vis
     
 ## Current features Stage
 
-**Object Tracking**: A model for object tracking was trained, focusing on tracking fish. The training process utilized the [Roboflow Universe public Aquarium dataset](https://universe.roboflow.com/brad-dwyer/aquarium-combined). You can adapt this to your own dataset on Roboflow. This code resides within the repository.
+**Object Tracking**: A model for object tracking was trained, focusing on tracking fish. The training process utilized the [Roboflow Universe public Aquarium dataset](https://universe.roboflow.com/brad-dwyer/aquarium-combined). It can be adapted to an augmented custom dataset on Roboflow. This code resides within the repository.
 <p align="center">
   <img src="https://blog.roboflow.com/content/images/2021/09/130703648-8af62801-d66c-41f5-80ae-889301ae9b44-1.gif" width="70%"/>
 </p>
