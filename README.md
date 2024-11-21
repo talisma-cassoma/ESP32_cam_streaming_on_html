@@ -20,11 +20,11 @@ This project is about an underwater drone equipped with intelligent computer vis
     <img src="./assets/overview.png" title="D-OceanLab underwater design overview" width="90%"/>
   </p>
 
-<div align="center">
+<!--div align="center">
 <video src="https://github.com/user-attachments/assets/862fec10-1c0e-40ee-9b35-76949d90156e" controls high="200">
   your navegator do not suport embedded vídeos :(.
 </video>
-</div>
+</div-->
 
     
 ## Current features Stage
